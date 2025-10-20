@@ -1,0 +1,7 @@
+# Logs
+app/logs/
+*.log
+
+# Test caches
+.pytest_cache/
+.coverage
